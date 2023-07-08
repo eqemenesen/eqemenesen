@@ -1,4 +1,4 @@
-Hi 👋 My name is Egemen Esen
+Hi 👋 My name is Egemen
 ============================
 
 CSE Senior @ Sabanci University
